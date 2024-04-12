@@ -1,0 +1,8 @@
+:root{
+    --bg-primary: #4E8BBF; /*Cor primária*/ 
+    --bg-secondary: #E0E0E0; /*Cor secundária*/
+    --bg-input: #191923; /*Cor de fundo do Input*/
+    --bg-button: #4B644A; /*Cor de fundo do Botão*/
+    --color-text: #E0E0E0; /*Cor de fundo do Texto*/
+    --border-color: #000; /*Cor da Borda*/
+}

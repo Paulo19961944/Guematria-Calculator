@@ -1,0 +1,68 @@
+/*LAPTOPS*/
+@media screen and (max-width: 1024px) {
+    /*CONTAINER*/
+    main section{
+        width: 520px; /*Largura de 520px*/
+    }
+
+    /*INPUT*/
+    main section form input{
+        width: 364px; /*Largura de 364px*/
+    }
+}
+
+/*TABLETS*/
+@media screen and (max-width: 616px) {
+    /*TITULO DO CONTAINER*/
+    h1{
+        font-size: 1.25em; /*Tamanho da fonte de 125%*/
+    }
+
+    /*CONTAINER*/
+    main section{
+        width: 320px; /*Largura de 320px*/
+    }
+
+    /*TEXTO DO CONTAINER*/
+    main section form label, main section form input, #calcularBtn{
+        font-size: 0.75em; /*Tamanho da fonte de 75%*/
+    }
+
+    /*INPUT*/
+    main section form input{
+        width: 224px; /*Largura de 224px*/
+    }
+
+    /*BOTÃO DE CALCULAR GUEMATRIA*/
+    #calcularBtn{
+        width: 160px; /*Largura de 160px*/
+    }
+}
+
+/*CELULAR MÉDIO*/
+@media screen and (max-width: 350px) {
+    /*TITULO DO CONTAINER*/
+    h1{
+        font-size: 1em; /*Tamanho da fonte de 100%*/
+    }
+
+    /*CONTAINER*/
+    main section{
+        width: 280px; /*Largura de 280px*/
+    }
+
+    /*TEXTO DO CONTAINER*/
+    main section form label, main section form input, #calcularBtn{
+        font-size: 0.65em; /*Tamanho da fonte de 65%*/
+    }
+
+    /*INPUT*/
+    main section form input{
+        width: 196px; /*Largura de 196px*/
+    }
+
+    /*BOTÃO*/
+    #calcularBtn{
+        width: 120px; /*Largura de 120px*/
+    }
+}
